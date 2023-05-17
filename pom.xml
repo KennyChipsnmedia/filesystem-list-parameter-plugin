@@ -11,7 +11,7 @@
 	<version>0.0.8.0</version>
 	<packaging>hpi</packaging>
 
-	<name>Jenkins Filesystem List Parameter Plug-in</name>
+	<name>[CNM]Jenkins Filesystem List Parameter Plug-in</name>
 	<description>
     This plugin reads folder, file or symbolic link names from filesystem path as parameter value.
   	</description>
